@@ -22,4 +22,10 @@
 
 ### Protect:
 
+ The cybersecurity team has implemented a new firewall rule to limit the reate of incoming ICMP packets and deployed an Intrusion Detection System (IDS)/Intrusion Prevention System (IPS) to filter out ICMP traffic. They have also introduced new authentication policies to prevent future attacks, including multi-fuctor authentication (MFA), a limit of three login attempts, and comprehensive employee training on safeguarding login credentials. Additionally, we plan to enhance firewall configuration and allocate resourses for acquiring a new IPS.
+
+ ##
+
+ ### Detect:
+
  

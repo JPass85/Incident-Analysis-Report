@@ -28,4 +28,8 @@
 
  ### Detect:
 
- 
+  The cybersecurity team has configured the firewall to verify source IP addresses, enabling the detection of spoofed IP addresses within incoming ICMP packets. Additionally, they have deployed network monitoring software to identify abonormal traffic patterns. To detect future unauthorized access attempts, the team will use a firwall logging tool and an IDS to monitor all incoming internet traffic.
+
+  ##
+
+  ### Respond
